@@ -1,0 +1,7 @@
+
+Running Gradle task 'assembleDebug'...                          
+[CXX1101] NDK at C:\Users\AKBAS_PC\AppData\Local\Android\Sdk\ndk\23.1.7779620 did not have a source.properties file
+[CXX1101] NDK at C:\Users\AKBAS_PC\AppData\Local\Android\Sdk\ndk\23.1.7779620 did not have a source.properties file
+[CXX1101] NDK at C:\Users\AKBAS_PC\AppData\Local\Android\Sdk\ndk\23.1.7779620 did not have a source.properties file
+Running Gradle task 'assembleDebug'...                             14,7s
+√ Built build\app\outputs\flutter-apk\app-debug.apk

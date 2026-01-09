@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "174293706550",
+    "project_id": "kilotakip-e5815",
+    "storage_bucket": "kilotakip-e5815.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174293706550:android:36e0f6c7e13e5ab7a9f597",
+        "android_client_info": {
+          "package_name": "com.example.kilotakibi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174293706550-9imapsor5qfvcm99em39ra83kgaov1cf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kilotakibi",
+            "certificate_hash": "9022780d1f4b12bf930ef01e6a291a27126c4f05"
+          }
+        },
+        {
+          "client_id": "174293706550-m4h714e5m0ussn9cg85840ro1bae1eve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZCKZJ2qR9OxEzmlAaMlMFNnhqwqG8880"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174293706550-m4h714e5m0ussn9cg85840ro1bae1eve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

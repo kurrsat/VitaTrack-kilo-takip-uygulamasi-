@@ -1,0 +1,645 @@
+{
+  "appName": "WeightVault",
+  "onboardingTitle": "Track with confidence",
+  "onboardingSubtitle": "Smooth the noise and stay focused on the trend.",
+  "continueLabel": "Continue",
+  "skip": "Skip",
+  "demoMode": "Demo Mode",
+  "normalMode": "Normal Mode",
+  "login": "Login",
+  "register": "Register",
+  "forgotPassword": "Forgot Password",
+  "dashboard": "Dashboard",
+  "log": "Log",
+  "analytics": "Analytics",
+  "reportsTitle": "Reports",
+  "photos": "Photos",
+  "settings": "Settings",
+  "addButtonLabel": "Add",
+  "addWeight": "Add Weight",
+  "addWater": "Add Water",
+  "addFood": "Add Food",
+  "addPhotoTitle": "Add Photo",
+  "addPhotoSubtitle": "Use the same lighting and angle for better comparisons.",
+  "logFilterAll": "All",
+  "logFilterWeight": "Weight",
+  "logFilterWater": "Water",
+  "logFilterFood": "Food",
+  "logFilterActivity": "Activity",
+  "logFilterPhoto": "Photo",
+  "yesterdayLabel": "Yesterday",
+  "deleteLabel": "Delete",
+  "editLabel": "Edit",
+  "deleteConfirmTitle": "Delete entry?",
+  "deleteConfirmMessage": "This action cannot be undone.",
+  "recordDetailsTitle": "Record Details",
+  "recordSavedMessage": "Record updated",
+  "waterAmountLabel": "Water (ml)",
+  "photoDetailMessage": "You can delete this photo entry from here.",
+  "dashboardHeroTitle": "Latest",
+  "lastMeasurementLabel": "Last measurement: {value}",
+  "lastMeasurementUnknown": "Last measurement: --",
+  "weekDeltaLabel": "7-day change: {value}",
+  "weekDeltaUnknown": "7-day change: --",
+  "goalProgressTitle": "Goal",
+  "etaNeedsMoreData": "More measurements are needed for ETA (min 7 entries).",
+  "etaReached": "Goal reached",
+  "dailySummaryTitle": "Daily Summary",
+  "caloriesTitle": "Calories",
+  "waterTitle": "Water",
+  "lastEntryTitle": "Last Entry",
+  "lastEntrySubtitle": "Latest activity",
+  "lastEntryUnknown": "No entries yet",
+  "goalUnknown": "Goal: --",
+  "goalInline": "Goal: {value}",
+  "profileGoalsSectionTitle": "Profile & Goals",
+  "profileSubtitle": "Update your details and goals",
+  "goalTitle": "Goal",
+  "unitsSectionTitle": "Units",
+  "analysisSettingsTitle": "Analysis Settings",
+  "analysisSettingsSubtitle": "Smoothing and advanced controls",
+  "advancedSettingsTitle": "Advanced",
+  "unitUnknown": "Not set",
+  "range7d": "7d",
+  "analyticsViewTitle": "View",
+  "analyticsViewTrend": "Trend (Recommended)",
+  "analyticsViewRaw": "Raw",
+  "analyticsSmoothingTitle": "Smoothing",
+  "smoothingLow": "Low",
+  "smoothingMedium": "Medium",
+  "smoothingHigh": "High",
+  "photosEmptyTitle": "No photos yet",
+  "photosEmptyLineOne": "Same light, same angle, once a week.",
+  "photosEmptyLineTwo": "Add photos to compare progress.",
+  "startFasting": "Start Fasting",
+  "retry": "Retry",
+  "errorSomethingWentWrong": "Something went wrong",
+  "unlockApp": "Unlock WeightVault",
+  "initializingApp": "Initializing WeightVault",
+  "modeSelectTitle": "Mode Select",
+  "modeSelectHeadline": "How would you like to start?",
+  "demoModeDescription": "Offline experience with sample data.",
+  "demoModeCta": "Start with Demo",
+  "normalModeDescription": "Cloud sync powered by Firebase.",
+  "normalModeCta": "Continue with Normal Mode",
+  "emailLabel": "Email",
+  "passwordLabel": "Password",
+  "signingIn": "Signing in",
+  "createAccount": "Create account",
+  "haveAccount": "I have an account",
+  "continueWithGoogle": "Continue with Google",
+  "continueWithApple": "Continue with Apple",
+  "authError": "Auth error: {error}",
+  "passwordResetSent": "Password reset email sent.",
+  "permissionsTitle": "Permissions",
+  "permissionsSubtitle": "Enable notifications and health permissions for reminders.",
+  "notificationsPermissionCta": "Allow Notifications",
+  "healthPermissionCta": "HealthKit / Google Fit",
+  "goalSetupTitle": "Set your goal",
+  "nameLabel": "Name",
+  "birthYearLabel": "Birth Year",
+  "genderLabel": "Gender",
+  "genderMale": "Male",
+  "genderFemale": "Female",
+  "genderOther": "Other",
+  "currentWeightLabel": "Current Weight (kg)",
+  "heightLabel": "Height (cm)",
+  "unitsLabel": "Units",
+  "unitsMetric": "Metric",
+  "unitsImperial": "Imperial",
+  "activityLevelLabel": "Activity Level",
+  "activityLevelLow": "Low",
+  "activityLevelModerate": "Moderate",
+  "activityLevelHigh": "High",
+  "activityLevelVeryHigh": "Very High",
+  "goalTypeLabel": "Goal Type",
+  "goalWeightLabel": "Goal Weight",
+  "goalDateLabel": "Goal Date",
+  "goalTypeLose": "Lose",
+  "goalTypeGain": "Gain",
+  "goalTypeMaintain": "Maintain",
+  "dailyCalorieGoalMessage": "Your daily calorie goal: {value} kcal",
+  "weeklyCaloriesTitle": "Calories",
+  "weeklyCaloriesChartTitle": "Daily intake",
+  "weeklyCaloriesAverage": "Daily average: {value} kcal",
+  "weeklyCaloriesTotal": "Total: {value} kcal",
+  "weeklyCaloriesTarget": "Target: {value} kcal",
+  "weeklyCaloriesEmptyTitle": "No calorie data",
+  "weeklyCaloriesEmptyMessage": "No calorie entries in the last 7 days.",
+  "emptyWeightTitle": "No weight entries yet",
+  "emptyWeightMessage": "Add your first weigh-in to see trends and ETA.",
+  "trendTitle": "Trend",
+  "latestLabel": "Latest",
+  "etaLabel": "ETA",
+  "etaDays": "{days} days",
+  "stableLabel": "Stable",
+  "goalLabel": "Goal: {weight} kg",
+  "plateauMessage": "Plateau detected. Consider adjusting calories or activity to restart progress.",
+  "quickAddTitle": "Quick Add",
+  "emptyLogTitle": "No logs yet",
+  "emptyLogMessage": "Add your first weight entry.",
+  "entryDeleted": "Entry deleted",
+  "undo": "Undo",
+  "weightSaved": "Weight saved",
+  "weightLabel": "Weight (kg)",
+  "noteLabel": "Note",
+  "conditionLabel": "Condition",
+  "moodLabel": "Mood",
+  "dateTimeLabel": "Date & Time",
+  "cancel": "Cancel",
+  "save": "Save",
+  "conditionMorningFasted": "Morning fasted",
+  "conditionMorningFed": "Morning fed",
+  "conditionEveningFasted": "Evening fasted",
+  "conditionEveningFed": "Evening fed",
+  "moodGreat": "Great",
+  "moodOk": "Ok",
+  "moodLow": "Low",
+  "moodStressed": "Stressed",
+  "noDataTitle": "No data",
+  "noDataAnalyticsMessage": "Add weight entries to see analytics.",
+  "range30d": "30d",
+  "range6m": "6mo",
+  "range90d": "90d",
+  "range1y": "1y",
+  "trendMethodLabel": "Trend Method",
+  "alphaLabel": "Alpha: {value}",
+  "betaLabel": "Beta: {value}",
+  "trendMethodMovingAverage": "Moving Average",
+  "trendMethodExponential": "Exponential",
+  "trendMethodDoubleExponential": "Double Exponential",
+  "trendMethodCustom": "Custom",
+  "waterAdded": "Added {amount} ml",
+  "waterTrackerTitle": "Water Tracker",
+  "todayLabel": "Today",
+  "waterProgress": "{current} ml / {goal} ml",
+  "waterWeekTitle": "Last 7 days",
+  "waterStreakLabel": "{days} day streak",
+  "waterGoalMetLabel": "{count}/{total} days on goal",
+  "waterAverageLabel": "Avg {amount} ml/day",
+  "addWaterAmount": "+{amount} ml",
+  "waterAmount": "{amount} ml",
+  "fastingTitle": "Fasting",
+  "startFastTitle": "Start a Fast",
+  "goalHoursLabel": "Goal Hours",
+  "startLabel": "Start",
+  "activeFastTitle": "Active Fast",
+  "elapsedLabel": "Elapsed: {hours}h {minutes}m",
+  "remainingLabel": "Remaining: {hours}h {minutes}m",
+  "stopLabel": "Stop",
+  "loadingFasting": "Loading fasting",
+  "errorTitle": "Error",
+  "validationRequired": "Please fill out this field.",
+  "validationInvalidNumber": "Enter a valid number.",
+  "historyTitle": "History",
+  "doneLabel": "Done",
+  "activeLabel": "Active",
+  "loadingHistory": "Loading history",
+  "fastingPlan168": "16:8",
+  "fastingPlan186": "18:6",
+  "fastingPlan204": "20:4",
+  "fastingPlanOmad": "OMAD",
+  "fastingPlanCustom": "Custom",
+  "fastingCompleteTitle": "Fasting Complete",
+  "fastingCompleteBody": "Great job! Your fasting window is done.",
+  "activityTitle": "Activity",
+  "stepsToday": "Steps Today",
+  "stepsCount": "{steps} steps",
+  "fetchingSteps": "Fetching steps",
+  "stepsErrorTitle": "Steps error",
+  "noActivitiesTitle": "No activities",
+  "noActivitiesMessage": "Add manual workouts to track energy burn.",
+  "workoutsTitle": "Workouts",
+  "workoutDetails": "{minutes} min | {calories} kcal",
+  "measurementsTitle": "Measurements",
+  "noMeasurementsTitle": "No measurements",
+  "noMeasurementsMessage": "Add measurements to track body changes.",
+  "measurementChartTitle": "Measurement Trend",
+  "measurementMetricLabel": "Metric",
+  "measurementLatestValue": "Latest: {value} {unit}",
+  "metricWaist": "Waist",
+  "metricHip": "Hip",
+  "metricChest": "Chest",
+  "metricNeck": "Neck",
+  "metricArm": "Arm",
+  "metricThigh": "Thigh",
+  "metricBodyFat": "Body Fat %",
+  "metricMuscle": "Muscle %",
+  "metricWaterPct": "Water %",
+  "measurementWaistHip": "Waist: {waist} cm | Hip: {hip} cm",
+  "measurementChestNeck": "Chest: {chest} cm | Neck: {neck} cm",
+  "measurementArmThigh": "Arm: {arm} cm | Thigh: {thigh} cm",
+  "quickAddWeightLoading": "Opening quick add",
+  "quickAddWaterLoading": "Adding water",
+  "nutritionTitle": "Nutrition",
+  "noFoodLoggedTitle": "No food logged",
+  "noFoodLoggedMessage": "Add meals to see daily totals.",
+  "todayTotalsTitle": "Today Totals",
+  "caloriesValue": "Calories: {value} kcal",
+  "proteinValue": "Protein: {value} g",
+  "carbValue": "Carb: {value} g",
+  "fatValue": "Fat: {value} g",
+  "foodItemCalories": "{name} - {cal} kcal",
+  "addFoodTitle": "Add Food",
+  "barcodeLabel": "Barcode",
+  "lookupLabel": "Lookup",
+  "mealTypeLabel": "Meal Type",
+  "gramsLabel": "Grams",
+  "caloriesLabel": "Calories (kcal)",
+  "proteinLabel": "Protein (g)",
+  "carbLabel": "Carb (g)",
+  "fatLabel": "Fat (g)",
+  "foodSaved": "Food saved",
+  "foodDefaultName": "Food",
+  "mealBreakfast": "Breakfast",
+  "mealLunch": "Lunch",
+  "mealDinner": "Dinner",
+  "mealSnack": "Snack",
+  "customFoodTitle": "Custom Food",
+  "customFoodSaved": "Custom food saved",
+  "nameTrLabel": "Name (TR)",
+  "nameEnLabel": "Name (EN)",
+  "barcodeOptionalLabel": "Barcode (optional)",
+  "customFoodDefaultTr": "Custom food (TR)",
+  "customFoodDefaultEn": "Custom food (EN)",
+  "addActivityTitle": "Add Activity",
+  "activitySaved": "Activity saved",
+  "activityTypeLabel": "Activity Type",
+  "activityDurationLabel": "Duration (min)",
+  "activityDefaultType": "Workout",
+  "addMeasurementsTitle": "Add Measurements",
+  "measurementsSaved": "Measurements saved",
+  "waistLabel": "Waist (cm)",
+  "hipLabel": "Hip (cm)",
+  "chestLabel": "Chest (cm)",
+  "neckLabel": "Neck (cm)",
+  "armLabel": "Arm (cm)",
+  "thighLabel": "Thigh (cm)",
+  "progressPhotosTitle": "Progress Photos",
+  "noPhotosTitle": "No photos yet",
+  "noPhotosMessage": "Add photos to compare your progress.",
+  "photoTypeTitle": "Select photo type",
+  "photoTypeFront": "Front",
+  "photoTypeSide": "Side",
+  "photoTypeBack": "Back",
+  "photoCompareTitle": "Compare Photos",
+  "weeklyInsightsTitle": "Weekly Insights",
+  "weeklyReportTitle": "Weekly Report",
+  "weeklySummaryTitle": "Summary",
+  "weeklyWeightChangeLabel": "Weight change",
+  "weeklyTrendSpeedLabel": "Trend speed",
+  "weeklyWaterAdherenceLabel": "Water adherence",
+  "weeklyFastingCountLabel": "Fasting sessions",
+  "weeklyWaterAdherenceValue": "{count}/{total} days",
+  "weeklyFastingCountValue": "{count} sessions",
+  "weeklyGeneratedLabel": "Generated {time}",
+  "weeklyReportShareText": "WeightVault Weekly Report",
+  "noInsightsTitle": "No insights yet",
+  "noInsightsMessage": "Add weight entries to unlock insights.",
+  "noRecentDataTitle": "No recent data",
+  "noRecentDataMessage": "Log weight this week to see insights.",
+  "adaptiveTargetTitle": "Adaptive Target",
+  "bmrValue": "BMR: {value} kcal",
+  "tdeeValue": "TDEE: {value} kcal",
+  "suggestedValue": "Suggested: {value} kcal",
+  "weeklyChangeTitle": "Weekly Change",
+  "weightChangeValue": "{value} kg",
+  "trendSpeedTitle": "Trend Speed",
+  "trendSpeedValue": "{value} kg/week",
+  "consistencyTitle": "Consistency",
+  "consistencyMessage": "Logged {count} weigh-ins this week.",
+  "dailyCalorieTargetTitle": "Daily Calorie Target",
+  "editDailyCalorieGoal": "Edit Calorie Goal",
+  "calorieGoalMissingInfo": "Birth year and gender are required to calculate the calorie goal.",
+  "calorieGoalSaved": "Calorie goal saved.",
+  "calorieOffsetTitle": "Daily Calorie Offset",
+  "calorieOffsetSubtitle": "BMR + activity + offset",
+  "calorieOffsetValue": "{value} kcal",
+  "calorieOffsetEditTitle": "Edit Calorie Offset",
+  "calorieOffsetHint": "Example: 500 for surplus, -500 for deficit",
+  "calorieOffsetInvalid": "Enter a valid kcal value.",
+  "calorieOffsetSaved": "Calorie offset saved.",
+  "exportImportTitle": "Export / Import",
+  "workingLabel": "Working...",
+  "exportTitle": "Export",
+  "exportJson": "Export JSON",
+  "exportCsv": "Export CSV",
+  "exportJsonShare": "WeightVault JSON Export",
+  "exportCsvShare": "WeightVault CSV Export",
+  "importTitle": "Import",
+  "importJson": "Import JSON",
+  "csvImportWizard": "CSV Import Wizard",
+  "importJsonTitle": "Import JSON",
+  "importingLabel": "Importing...",
+  "selectJsonFile": "Select JSON File",
+  "importComplete": "Import complete.",
+  "csvImportWizardTitle": "CSV Import Wizard",
+  "selectCsvFile": "Select CSV File",
+  "dateColumnLabel": "Date Column",
+  "weightColumnLabel": "Weight Column",
+  "importLabel": "Import",
+  "importedEntries": "Imported {count} entries.",
+  "goPremiumTitle": "Go Premium",
+  "loadingPaywall": "Loading paywall",
+  "noOfferingsTitle": "No offerings",
+  "noOfferingsMessage": "RevenueCat offerings not configured yet.",
+  "premiumBenefitsTitle": "Premium Benefits",
+  "premiumBenefitsMessage": "Unlimited photos, widgets, barcode scanner, insights.",
+  "subscribeLabel": "Subscribe {price}",
+  "purchaseSuccessful": "Purchase successful.",
+  "restorePurchases": "Restore Purchases",
+  "manageSubscription": "Manage Subscription",
+  "manageSubscriptionMessage": "Manage subscriptions from your store account.",
+  "unableToOpenSubscriptions": "Unable to open subscription settings.",
+  "profileTitle": "Profile",
+  "editProfile": "Edit Profile",
+  "loadingProfile": "Loading profile",
+  "profileErrorTitle": "Profile error",
+  "goalsSectionTitle": "Goals",
+  "adaptiveGoalsTitle": "Adaptive Goals",
+  "supportSectionTitle": "Support",
+  "sendFeedback": "Send Feedback",
+  "exportDebugBundle": "Export Debug Bundle",
+  "debugBundleShareText": "WeightVault Debug Bundle",
+  "securitySectionTitle": "Security",
+  "biometricAppLock": "Biometric App Lock",
+  "privacyScreenBlur": "Privacy Screen Blur",
+  "localDbEncryption": "Local DB Encryption",
+  "restartToApplyEncryption": "Restart app to apply encryption changes.",
+  "notificationsSectionTitle": "Notifications",
+  "quietHoursStart": "Quiet Hours Start",
+  "quietHoursEnd": "Quiet Hours End",
+  "reminderOff": "Off",
+  "weightReminderTitle": "Weight Reminder",
+  "weightReminderBody": "Log your weight today.",
+  "waterReminderTitle": "Water Reminder",
+  "waterReminderBody": "Time to hydrate.",
+  "mealReminderTitle": "Meal Reminder",
+  "mealReminderBody": "Log your meal.",
+  "reminderMovedMessage": "Reminder moved to {time} due to quiet hours.",
+  "disableLabel": "Disable",
+  "dataSectionTitle": "Data",
+  "insightsTitle": "Insights",
+  "premiumSectionTitle": "Premium",
+  "paywallSubscriptionTitle": "Paywall & Subscription",
+  "legalSectionTitle": "Legal",
+  "demoToolsTitle": "Demo Tools",
+  "resetDemoData": "Reset Demo Data",
+  "demoDataReset": "Demo data reset.",
+  "accountSectionTitle": "Account",
+  "deleteAccountTitle": "Delete Account",
+  "signOut": "Sign Out",
+  "appVersionTitle": "App Version",
+  "noProfileTitle": "No profile",
+  "noProfileMessage": "Complete onboarding first.",
+  "profileSaved": "Profile saved.",
+  "deleteAccountWarning": "This action is permanent and deletes all data.",
+  "confirmDeleteLabel": "Type {word} to confirm",
+  "deletingLabel": "Deleting...",
+  "deleteAccountCta": "Delete Account",
+  "privacyPolicyTitle": "Privacy Policy",
+  "privacyPolicyBody": "WeightVault stores your data locally and syncs to your cloud account when enabled. You can export or delete your data anytime. This app does not provide medical advice.",
+  "termsOfServiceTitle": "Terms of Service",
+  "termsOfServiceBody": "By using WeightVault, you agree that the app is for informational purposes only. Always consult a healthcare professional for medical decisions.",
+  "@authError": {
+    "placeholders": {
+      "error": {}
+    }
+  },
+  "@etaDays": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "@goalLabel": {
+    "placeholders": {
+      "weight": {}
+    }
+  },
+  "@alphaLabel": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@betaLabel": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@waterAdded": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "@waterProgress": {
+    "placeholders": {
+      "current": {},
+      "goal": {}
+    }
+  },
+  "@waterStreakLabel": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "@waterGoalMetLabel": {
+    "placeholders": {
+      "count": {},
+      "total": {}
+    }
+  },
+  "@waterAverageLabel": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "@addWaterAmount": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "@waterAmount": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "@stepsCount": {
+    "placeholders": {
+      "steps": {}
+    }
+  },
+  "@workoutDetails": {
+    "placeholders": {
+      "minutes": {},
+      "calories": {}
+    }
+  },
+  "@measurementWaistHip": {
+    "placeholders": {
+      "waist": {},
+      "hip": {}
+    }
+  },
+  "@measurementChestNeck": {
+    "placeholders": {
+      "chest": {},
+      "neck": {}
+    }
+  },
+  "@measurementArmThigh": {
+    "placeholders": {
+      "arm": {},
+      "thigh": {}
+    }
+  },
+  "@measurementLatestValue": {
+    "placeholders": {
+      "value": {},
+      "unit": {}
+    }
+  },
+  "@elapsedLabel": {
+    "placeholders": {
+      "hours": {},
+      "minutes": {}
+    }
+  },
+  "@remainingLabel": {
+    "placeholders": {
+      "hours": {},
+      "minutes": {}
+    }
+  },
+  "@caloriesValue": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@proteinValue": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@carbValue": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@fatValue": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@foodItemCalories": {
+    "placeholders": {
+      "name": {},
+      "cal": {}
+    }
+  },
+  "@bmrValue": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@dailyCalorieGoalMessage": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@lastMeasurementLabel": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@weekDeltaLabel": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@goalInline": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@weeklyCaloriesAverage": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@weeklyCaloriesTotal": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@weeklyCaloriesTarget": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@tdeeValue": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@suggestedValue": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@weightChangeValue": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@trendSpeedValue": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@weeklyWaterAdherenceValue": {
+    "placeholders": {
+      "count": {},
+      "total": {}
+    }
+  },
+  "@weeklyFastingCountValue": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "@weeklyGeneratedLabel": {
+    "placeholders": {
+      "time": {}
+    }
+  },
+  "@consistencyMessage": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "@calorieOffsetValue": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@importedEntries": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "@subscribeLabel": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "@reminderMovedMessage": {
+    "placeholders": {
+      "time": {}
+    }
+  },
+  "@confirmDeleteLabel": {
+    "placeholders": {
+      "word": {}
+    }
+  }
+}

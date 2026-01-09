@@ -1,0 +1,32 @@
+class PrefKeys {
+  static const onboardingComplete = 'onboarding_complete';
+  static const modeSelected = 'mode_selected';
+  static const demoMode = 'demo_mode';
+  static const trendMethod = 'trend_method';
+  static const trendAlpha = 'trend_alpha';
+  static const trendBeta = 'trend_beta';
+  static const unitSystem = 'unit_system';
+  static const onboardingGoalType = 'onboarding_goal_type';
+  static const onboardingGoalWeight = 'onboarding_goal_weight';
+  static const onboardingGoalDate = 'onboarding_goal_date';
+  static const onboardingUnits = 'onboarding_units';
+  static const onboardingHeightCm = 'onboarding_height_cm';
+  static const onboardingName = 'onboarding_name';
+  static const onboardingBirthYear = 'onboarding_birth_year';
+  static const onboardingGender = 'onboarding_gender';
+  static const onboardingCurrentWeight = 'onboarding_current_weight';
+  static const biometricLockEnabled = 'biometric_lock_enabled';
+  static const privacyScreenEnabled = 'privacy_screen_enabled';
+  static const adaptiveGoalsEnabled = 'adaptive_goals_enabled_local';
+  static const dbEncryptionEnabled = 'db_encryption_enabled';
+  static const String quietHoursStart = 'quietHoursStart';
+  static const quietHoursEnd = 'quiet_hours_end';
+  static const weightReminderMinutes = 'weight_reminder_minutes';
+  static const waterReminderMinutes = 'water_reminder_minutes';
+  static const mealReminderMinutes = 'meal_reminder_minutes';
+  static const mealReminderEnabled = 'meal_reminder_enabled';
+  static const waterReminderEnabled = 'water_reminder_enabled';
+  static const activityReminderEnabled = 'activity_reminder_enabled';
+  static const lastSyncAt = 'last_sync_at';
+  static const demoSeeded = 'demo_seeded';
+}

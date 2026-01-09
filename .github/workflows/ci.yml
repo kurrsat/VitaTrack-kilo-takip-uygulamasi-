@@ -1,0 +1,73 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      RUN_INTEGRATION: "false"
+      RUN_GOLDENS: "false"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+
+      - name: Flutter Version
+        run: flutter --version
+
+      - name: Pub Get
+        run: flutter pub get
+
+      - name: Gen L10n
+        run: flutter gen-l10n
+
+      - name: Build Runner
+        run: flutter pub run build_runner build --delete-conflicting-outputs
+
+      - name: Analyze
+        run: flutter analyze
+
+      - name: Test
+        run: flutter test --coverage
+
+      - name: Coverage Threshold
+        run: |
+          python - <<'PY'
+          import re
+          import sys
+          from pathlib import Path
+
+          lcov = Path('coverage/lcov.info')
+          if not lcov.exists():
+            print('Missing coverage/lcov.info')
+            sys.exit(1)
+
+          data = lcov.read_text()
+          hits = 0
+          total = 0
+          for match in re.finditer(r'^DA:(\d+),(\d+)', data, re.M):
+            total += 1
+            if int(match.group(2)) > 0:
+              hits += 1
+
+          if total == 0:
+            print('No coverage data')
+            sys.exit(1)
+
+          ratio = hits / total * 100
+          print(f'Line coverage: {ratio:.2f}% ({hits}/{total})')
+          if ratio < 60:
+            print('Coverage below threshold 60%')
+            sys.exit(1)
+          PY
+
+      - name: Build Debug APK
+        run: flutter build apk --debug

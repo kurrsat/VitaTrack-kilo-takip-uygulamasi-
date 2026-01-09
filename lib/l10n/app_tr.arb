@@ -1,0 +1,645 @@
+{
+  "appName": "WeightVault",
+  "onboardingTitle": "Kilonu trendle yonet",
+  "onboardingSubtitle": "Dalgalanmayi sakinlestir, hedefe guvenle ilerle.",
+  "continueLabel": "Devam",
+  "skip": "Atla",
+  "demoMode": "Demo Modu",
+  "normalMode": "Normal Mod",
+  "login": "Giris",
+  "register": "Kayit Ol",
+  "forgotPassword": "Sifremi Unuttum",
+  "dashboard": "Panel",
+  "log": "Kayitlar",
+  "analytics": "Analiz",
+  "reportsTitle": "Raporlar",
+  "photos": "Fotograflar",
+  "settings": "Ayarlar",
+  "addButtonLabel": "Ekle",
+  "addWeight": "Kilo Ekle",
+  "addWater": "Su Ekle",
+  "addFood": "Yemek Ekle",
+  "addPhotoTitle": "Fotograf Ekle",
+  "addPhotoSubtitle": "Daha iyi karsilastirma icin ayni isik ve aciyi kullan.",
+  "logFilterAll": "Tumu",
+  "logFilterWeight": "Kilo",
+  "logFilterWater": "Su",
+  "logFilterFood": "Yemek",
+  "logFilterActivity": "Aktivite",
+  "logFilterPhoto": "Foto",
+  "yesterdayLabel": "Dun",
+  "deleteLabel": "Sil",
+  "editLabel": "Duzenle",
+  "deleteConfirmTitle": "Kaydi sil?",
+  "deleteConfirmMessage": "Bu islem geri alinamaz.",
+  "recordDetailsTitle": "Kayit Detayi",
+  "recordSavedMessage": "Kayit guncellendi",
+  "waterAmountLabel": "Su (ml)",
+  "photoDetailMessage": "Bu fotograf kaydini buradan silebilirsin.",
+  "dashboardHeroTitle": "Son Olcum",
+  "lastMeasurementLabel": "Son olcum: {value}",
+  "lastMeasurementUnknown": "Son olcum: --",
+  "weekDeltaLabel": "7 gun degisim: {value}",
+  "weekDeltaUnknown": "7 gun degisim: --",
+  "goalProgressTitle": "Hedef",
+  "etaNeedsMoreData": "Tahmin icin daha fazla olcum gerekli (en az 7 kayit).",
+  "etaReached": "Hedefe ulastin",
+  "dailySummaryTitle": "Gunluk Ozet",
+  "caloriesTitle": "Kalori",
+  "waterTitle": "Su",
+  "lastEntryTitle": "Son Kayit",
+  "lastEntrySubtitle": "Son ekleme",
+  "lastEntryUnknown": "Henuz kayit yok",
+  "goalUnknown": "Hedef: --",
+  "goalInline": "Hedef: {value}",
+  "profileGoalsSectionTitle": "Profil ve Hedefler",
+  "profileSubtitle": "Profil bilgilerini ve hedeflerini guncelle",
+  "goalTitle": "Hedef",
+  "unitsSectionTitle": "Birimler",
+  "analysisSettingsTitle": "Analiz Ayarlari",
+  "analysisSettingsSubtitle": "Yumusatma ve gelismis ayarlar",
+  "advancedSettingsTitle": "Gelismis",
+  "unitUnknown": "Ayarlanmadi",
+  "range7d": "7g",
+  "analyticsViewTitle": "Gorunum",
+  "analyticsViewTrend": "Trend (Onerilen)",
+  "analyticsViewRaw": "Ham",
+  "analyticsSmoothingTitle": "Yumusatma",
+  "smoothingLow": "Dusuk",
+  "smoothingMedium": "Orta",
+  "smoothingHigh": "Yuksek",
+  "photosEmptyTitle": "Henuz fotograf yok",
+  "photosEmptyLineOne": "Ayni isik, ayni aci, haftada 1 cek.",
+  "photosEmptyLineTwo": "Once/Sonra karsilastirmasi icin fotograf ekle.",
+  "startFasting": "Oruc Baslat",
+  "retry": "Tekrar Dene",
+  "errorSomethingWentWrong": "Bir seyler ters gitti",
+  "unlockApp": "WeightVault kilidini ac",
+  "initializingApp": "WeightVault baslatiliyor",
+  "modeSelectTitle": "Mod Secimi",
+  "modeSelectHeadline": "Nasil baslamak istersin?",
+  "demoModeDescription": "Offline deneyim, ornek verilerle tam akisi dene.",
+  "demoModeCta": "Demo ile Basla",
+  "normalModeDescription": "Firebase ile senkronize, bulut destekli kullan.",
+  "normalModeCta": "Normal Moda Gec",
+  "emailLabel": "Eposta",
+  "passwordLabel": "Sifre",
+  "signingIn": "Giris yapiliyor",
+  "createAccount": "Hesap olustur",
+  "haveAccount": "Hesabim var",
+  "continueWithGoogle": "Google ile devam et",
+  "continueWithApple": "Apple ile devam et",
+  "authError": "Giris hatasi: {error}",
+  "passwordResetSent": "Sifre sifirlama e-postasi gonderildi.",
+  "permissionsTitle": "Izinler",
+  "permissionsSubtitle": "Bildirim ve saglik verisi izinleri ile hatirlatmalari acin.",
+  "notificationsPermissionCta": "Bildirim Izni Ver",
+  "healthPermissionCta": "HealthKit / Google Fit",
+  "goalSetupTitle": "Hedefini kur",
+  "nameLabel": "Isim",
+  "birthYearLabel": "Dogum Yili",
+  "genderLabel": "Cinsiyet",
+  "genderMale": "Erkek",
+  "genderFemale": "Kadin",
+  "genderOther": "Diger",
+  "currentWeightLabel": "Guncel Kilo (kg)",
+  "heightLabel": "Boy (cm)",
+  "unitsLabel": "Birimler",
+  "unitsMetric": "Metrik",
+  "unitsImperial": "Imperial",
+  "activityLevelLabel": "Aktivite Seviyesi",
+  "activityLevelLow": "Dusuk",
+  "activityLevelModerate": "Orta",
+  "activityLevelHigh": "Yuksek",
+  "activityLevelVeryHigh": "Cok Yuksek",
+  "goalTypeLabel": "Hedef Turu",
+  "goalWeightLabel": "Hedef Kilo",
+  "goalDateLabel": "Hedef Tarih",
+  "goalTypeLose": "Kilo ver",
+  "goalTypeGain": "Kilo al",
+  "goalTypeMaintain": "Kilo koru",
+  "dailyCalorieGoalMessage": "Gunluk kalori hedefin: {value} kcal",
+  "weeklyCaloriesTitle": "Kaloriler",
+  "weeklyCaloriesChartTitle": "Gunluk alim",
+  "weeklyCaloriesAverage": "Gunluk Ortalama: {value} kcal",
+  "weeklyCaloriesTotal": "Toplam: {value} kcal",
+  "weeklyCaloriesTarget": "Hedef: {value} kcal",
+  "weeklyCaloriesEmptyTitle": "Kalori verisi yok",
+  "weeklyCaloriesEmptyMessage": "Son 7 gun icin kalori kaydi yok.",
+  "emptyWeightTitle": "Henuz kilo kaydi yok",
+  "emptyWeightMessage": "Trend ve ETA icin ilk olcumu ekle.",
+  "trendTitle": "Trend",
+  "latestLabel": "Son",
+  "etaLabel": "ETA",
+  "etaDays": "{days} gun",
+  "stableLabel": "Stabil",
+  "goalLabel": "Hedef: {weight} kg",
+  "plateauMessage": "Plateau tespit edildi. Kalori veya aktiviteyi ayarlamayi dusun.",
+  "quickAddTitle": "Hizli Ekle",
+  "emptyLogTitle": "Henuz kayit yok",
+  "emptyLogMessage": "Ilk kilo kaydini ekle.",
+  "entryDeleted": "Kayit silindi",
+  "undo": "Geri Al",
+  "weightSaved": "Kilo kaydedildi",
+  "weightLabel": "Kilo (kg)",
+  "noteLabel": "Not",
+  "conditionLabel": "Durum",
+  "moodLabel": "Ruh Hali",
+  "dateTimeLabel": "Tarih ve Saat",
+  "cancel": "Iptal",
+  "save": "Kaydet",
+  "conditionMorningFasted": "Sabah ac",
+  "conditionMorningFed": "Sabah tok",
+  "conditionEveningFasted": "Aksam ac",
+  "conditionEveningFed": "Aksam tok",
+  "moodGreat": "Harika",
+  "moodOk": "Iyi",
+  "moodLow": "Dusuk",
+  "moodStressed": "Stresli",
+  "noDataTitle": "Veri yok",
+  "noDataAnalyticsMessage": "Analiz icin kilo kayitlari ekle.",
+  "range30d": "30g",
+  "range6m": "6ay",
+  "range90d": "90g",
+  "range1y": "1yil",
+  "trendMethodLabel": "Trend Yontemi",
+  "alphaLabel": "Alfa: {value}",
+  "betaLabel": "Beta: {value}",
+  "trendMethodMovingAverage": "Hareketli Ortalama",
+  "trendMethodExponential": "Ussel Duzeltme",
+  "trendMethodDoubleExponential": "Cift Ussel",
+  "trendMethodCustom": "Ozel",
+  "waterAdded": "{amount} ml eklendi",
+  "waterTrackerTitle": "Su Takibi",
+  "todayLabel": "Bugun",
+  "waterProgress": "{current} ml / {goal} ml",
+  "waterWeekTitle": "Son 7 gun",
+  "waterStreakLabel": "{days} gun seri",
+  "waterGoalMetLabel": "{count}/{total} gun hedefte",
+  "waterAverageLabel": "Gunluk ortalama {amount} ml",
+  "addWaterAmount": "+{amount} ml",
+  "waterAmount": "{amount} ml",
+  "fastingTitle": "Oruclama",
+  "startFastTitle": "Oruca Basla",
+  "goalHoursLabel": "Hedef Saat",
+  "startLabel": "Baslat",
+  "activeFastTitle": "Aktif Oruc",
+  "elapsedLabel": "Gecen: {hours}s {minutes}d",
+  "remainingLabel": "Kalan: {hours}s {minutes}d",
+  "stopLabel": "Durdur",
+  "loadingFasting": "Oruc yukleniyor",
+  "errorTitle": "Hata",
+  "validationRequired": "Lutfen bu alani doldurun.",
+  "validationInvalidNumber": "Gecerli bir sayi girin.",
+  "historyTitle": "Gecmis",
+  "doneLabel": "Tamam",
+  "activeLabel": "Aktif",
+  "loadingHistory": "Gecmis yukleniyor",
+  "fastingPlan168": "16:8",
+  "fastingPlan186": "18:6",
+  "fastingPlan204": "20:4",
+  "fastingPlanOmad": "OMAD",
+  "fastingPlanCustom": "Ozel",
+  "fastingCompleteTitle": "Oruc Tamamlandi",
+  "fastingCompleteBody": "Tebrikler! Oruc hedefin tamamlandi.",
+  "activityTitle": "Aktivite",
+  "stepsToday": "Bugun Adim",
+  "stepsCount": "{steps} adim",
+  "fetchingSteps": "Adimlar aliniyor",
+  "stepsErrorTitle": "Adim hatasi",
+  "noActivitiesTitle": "Aktivite yok",
+  "noActivitiesMessage": "Manuel antrenman ekleyerek takip et.",
+  "workoutsTitle": "Antrenmanlar",
+  "workoutDetails": "{minutes} dk | {calories} kcal",
+  "measurementsTitle": "Olcumler",
+  "noMeasurementsTitle": "Olcum yok",
+  "noMeasurementsMessage": "Vucut degisimini takip icin olcum ekle.",
+  "measurementChartTitle": "Olcum Trendi",
+  "measurementMetricLabel": "Metrik",
+  "measurementLatestValue": "Son: {value} {unit}",
+  "metricWaist": "Bel",
+  "metricHip": "Kalca",
+  "metricChest": "Gogus",
+  "metricNeck": "Boyun",
+  "metricArm": "Kol",
+  "metricThigh": "Bacak",
+  "metricBodyFat": "Yag %",
+  "metricMuscle": "Kas %",
+  "metricWaterPct": "Su %",
+  "measurementWaistHip": "Bel: {waist} cm | Kalca: {hip} cm",
+  "measurementChestNeck": "Gogus: {chest} cm | Boyun: {neck} cm",
+  "measurementArmThigh": "Kol: {arm} cm | Bacak: {thigh} cm",
+  "quickAddWeightLoading": "Hizli kilo ekle aciliyor",
+  "quickAddWaterLoading": "Su ekleniyor",
+  "nutritionTitle": "Beslenme",
+  "noFoodLoggedTitle": "Yemek kaydi yok",
+  "noFoodLoggedMessage": "Gunluk toplamlar icin ogun ekle.",
+  "todayTotalsTitle": "Bugun Toplam",
+  "caloriesValue": "Kalori: {value} kcal",
+  "proteinValue": "Protein: {value} g",
+  "carbValue": "Karb: {value} g",
+  "fatValue": "Yag: {value} g",
+  "foodItemCalories": "{name} - {cal} kcal",
+  "addFoodTitle": "Yemek Ekle",
+  "barcodeLabel": "Barkod",
+  "lookupLabel": "Ara",
+  "mealTypeLabel": "Ogun Turu",
+  "gramsLabel": "Gram",
+  "caloriesLabel": "Kalori (kcal)",
+  "proteinLabel": "Protein (g)",
+  "carbLabel": "Karb (g)",
+  "fatLabel": "Yag (g)",
+  "foodSaved": "Yemek kaydedildi",
+  "foodDefaultName": "Yemek",
+  "mealBreakfast": "Kahvalti",
+  "mealLunch": "Ogle",
+  "mealDinner": "Aksam",
+  "mealSnack": "Ara Ogun",
+  "customFoodTitle": "Ozel Yemek",
+  "customFoodSaved": "Ozel yemek kaydedildi",
+  "nameTrLabel": "Isim (TR)",
+  "nameEnLabel": "Isim (EN)",
+  "barcodeOptionalLabel": "Barkod (opsiyonel)",
+  "customFoodDefaultTr": "Ozel yemek (TR)",
+  "customFoodDefaultEn": "Ozel yemek (EN)",
+  "addActivityTitle": "Aktivite Ekle",
+  "activitySaved": "Aktivite kaydedildi",
+  "activityTypeLabel": "Aktivite Turu",
+  "activityDurationLabel": "Sure (dk)",
+  "activityDefaultType": "Antrenman",
+  "addMeasurementsTitle": "Olcum Ekle",
+  "measurementsSaved": "Olcumler kaydedildi",
+  "waistLabel": "Bel (cm)",
+  "hipLabel": "Kalca (cm)",
+  "chestLabel": "Gogus (cm)",
+  "neckLabel": "Boyun (cm)",
+  "armLabel": "Kol (cm)",
+  "thighLabel": "Bacak (cm)",
+  "progressPhotosTitle": "Ilerleme Fotograflari",
+  "noPhotosTitle": "Henuz fotograf yok",
+  "noPhotosMessage": "Ilerlemeyi karsilastirmak icin fotograf ekle.",
+  "photoTypeTitle": "Fotograf turu sec",
+  "photoTypeFront": "On",
+  "photoTypeSide": "Yan",
+  "photoTypeBack": "Arka",
+  "photoCompareTitle": "Fotograf Karsilastir",
+  "weeklyInsightsTitle": "Haftalik Icgoruler",
+  "weeklyReportTitle": "Haftalik Rapor",
+  "weeklySummaryTitle": "Ozet",
+  "weeklyWeightChangeLabel": "Kilo degisimi",
+  "weeklyTrendSpeedLabel": "Trend hizi",
+  "weeklyWaterAdherenceLabel": "Su uyumu",
+  "weeklyFastingCountLabel": "Oruc seanslari",
+  "weeklyWaterAdherenceValue": "{count}/{total} gun",
+  "weeklyFastingCountValue": "{count} seans",
+  "weeklyGeneratedLabel": "Olusturuldu {time}",
+  "weeklyReportShareText": "WeightVault Haftalik Rapor",
+  "noInsightsTitle": "Henuz icgoru yok",
+  "noInsightsMessage": "Icgoruler icin kilo kaydi ekle.",
+  "noRecentDataTitle": "Son veri yok",
+  "noRecentDataMessage": "Bu hafta kilo girisi yap.",
+  "adaptiveTargetTitle": "Uyarlanabilir Hedef",
+  "bmrValue": "BMR: {value} kcal",
+  "tdeeValue": "TDEE: {value} kcal",
+  "suggestedValue": "Oneri: {value} kcal",
+  "weeklyChangeTitle": "Haftalik Degisim",
+  "weightChangeValue": "{value} kg",
+  "trendSpeedTitle": "Trend Hizi",
+  "trendSpeedValue": "{value} kg/hafta",
+  "consistencyTitle": "Tutarlilik",
+  "consistencyMessage": "Bu hafta {count} kilo girisi yapildi.",
+  "dailyCalorieTargetTitle": "Gunluk Kalori Hedefi",
+  "editDailyCalorieGoal": "Kalori Hedefini Duzenle",
+  "calorieGoalMissingInfo": "Kalori hedefi icin dogum yili ve cinsiyet gerekli.",
+  "calorieGoalSaved": "Kalori hedefi kaydedildi.",
+  "calorieOffsetTitle": "Gunluk Kalori Farki",
+  "calorieOffsetSubtitle": "BMR + aktivite + fark",
+  "calorieOffsetValue": "{value} kcal",
+  "calorieOffsetEditTitle": "Kalori Farkini Duzenle",
+  "calorieOffsetHint": "Ornek: 500 arti, -500 eksi",
+  "calorieOffsetInvalid": "Gecerli bir kcal degeri girin.",
+  "calorieOffsetSaved": "Kalori farki kaydedildi.",
+  "exportImportTitle": "Disari / Icari Aktar",
+  "workingLabel": "Isleniyor...",
+  "exportTitle": "Disari Aktar",
+  "exportJson": "JSON Disari Aktar",
+  "exportCsv": "CSV Disari Aktar",
+  "exportJsonShare": "WeightVault JSON Disari Aktar",
+  "exportCsvShare": "WeightVault CSV Disari Aktar",
+  "importTitle": "Icari Aktar",
+  "importJson": "JSON Icari Aktar",
+  "csvImportWizard": "CSV Icari Aktar Sihirbazi",
+  "importJsonTitle": "JSON Icari Aktar",
+  "importingLabel": "Icari aktariliyor...",
+  "selectJsonFile": "JSON Dosyasi Sec",
+  "importComplete": "Icari aktarim tamamlandi.",
+  "csvImportWizardTitle": "CSV Icari Aktar Sihirbazi",
+  "selectCsvFile": "CSV Dosyasi Sec",
+  "dateColumnLabel": "Tarih Kolonu",
+  "weightColumnLabel": "Kilo Kolonu",
+  "importLabel": "Icari Aktar",
+  "importedEntries": "Iceri aktarildi: {count} kayit.",
+  "goPremiumTitle": "Premiuma Gec",
+  "loadingPaywall": "Paywall yukleniyor",
+  "noOfferingsTitle": "Paket yok",
+  "noOfferingsMessage": "RevenueCat paketleri henuz ayarlanmadi.",
+  "premiumBenefitsTitle": "Premium Avantajlar",
+  "premiumBenefitsMessage": "Sinirsiz fotograf, widget, barkod tarama, icgoru.",
+  "subscribeLabel": "Abone ol {price}",
+  "purchaseSuccessful": "Satin alma basarili.",
+  "restorePurchases": "Satin Almalari Geri Yukle",
+  "manageSubscription": "Aboneligi Yonet",
+  "manageSubscriptionMessage": "Aboneligi magazadan yonetin.",
+  "unableToOpenSubscriptions": "Abonelik ayarlari acilamadi.",
+  "profileTitle": "Profil",
+  "editProfile": "Profil Duzenle",
+  "loadingProfile": "Profil yukleniyor",
+  "profileErrorTitle": "Profil hatasi",
+  "goalsSectionTitle": "Hedefler",
+  "adaptiveGoalsTitle": "Uyarlanabilir Hedefler",
+  "supportSectionTitle": "Destek",
+  "sendFeedback": "Geri Bildirim Gonder",
+  "exportDebugBundle": "Debug Paketini Disari Aktar",
+  "debugBundleShareText": "WeightVault Debug Paketi",
+  "securitySectionTitle": "Guvenlik",
+  "biometricAppLock": "Biyometrik Kilit",
+  "privacyScreenBlur": "Gizlilik Bulanikligi",
+  "localDbEncryption": "Yerel DB Sifreleme",
+  "restartToApplyEncryption": "Sifreleme degisiklikleri icin uygulamayi yeniden baslatin.",
+  "notificationsSectionTitle": "Bildirimler",
+  "quietHoursStart": "Sessiz Saat Baslangic",
+  "quietHoursEnd": "Sessiz Saat Bitis",
+  "reminderOff": "Kapali",
+  "weightReminderTitle": "Kilo Hatirlatici",
+  "weightReminderBody": "Bugun kilonu gir.",
+  "waterReminderTitle": "Su Hatirlatici",
+  "waterReminderBody": "Su icme zamani.",
+  "mealReminderTitle": "Ogun Hatirlatici",
+  "mealReminderBody": "Ogununu kaydet.",
+  "reminderMovedMessage": "Sessiz saatler nedeniyle hatirlatici {time} icin tasindi.",
+  "disableLabel": "Kapat",
+  "dataSectionTitle": "Veri",
+  "insightsTitle": "Icgoruler",
+  "premiumSectionTitle": "Premium",
+  "paywallSubscriptionTitle": "Paywall ve Abonelik",
+  "legalSectionTitle": "Yasal",
+  "demoToolsTitle": "Demo Araclari",
+  "resetDemoData": "Demo Verisini Sifirla",
+  "demoDataReset": "Demo verisi sifirlandi.",
+  "accountSectionTitle": "Hesap",
+  "deleteAccountTitle": "Hesabi Sil",
+  "signOut": "Cikis Yap",
+  "appVersionTitle": "Uygulama Surumu",
+  "noProfileTitle": "Profil yok",
+  "noProfileMessage": "Onboarding tamamla.",
+  "profileSaved": "Profil kaydedildi.",
+  "deleteAccountWarning": "Bu islem kalicidir ve tum verileri siler.",
+  "confirmDeleteLabel": "{word} yazarak onayla",
+  "deletingLabel": "Siliniyor...",
+  "deleteAccountCta": "Hesabi Sil",
+  "privacyPolicyTitle": "Gizlilik Politikasi",
+  "privacyPolicyBody": "WeightVault verilerini yerelde saklar ve etkinse bulut hesabinla senkronize eder. Istegin zaman disari aktarabilir veya silebilirsin. Bu uygulama tibbi tavsiye vermez.",
+  "termsOfServiceTitle": "Kullanim Sartlari",
+  "termsOfServiceBody": "WeightVault'u kullanarak uygulamanin sadece bilgilendirme amacli oldugunu kabul edersin. Tibbi kararlar icin profesyonel saglik danismani ile gorus.",
+  "@authError": {
+    "placeholders": {
+      "error": {}
+    }
+  },
+  "@etaDays": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "@goalLabel": {
+    "placeholders": {
+      "weight": {}
+    }
+  },
+  "@alphaLabel": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@betaLabel": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@waterAdded": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "@waterProgress": {
+    "placeholders": {
+      "current": {},
+      "goal": {}
+    }
+  },
+  "@waterStreakLabel": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "@waterGoalMetLabel": {
+    "placeholders": {
+      "count": {},
+      "total": {}
+    }
+  },
+  "@waterAverageLabel": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "@addWaterAmount": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "@waterAmount": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "@stepsCount": {
+    "placeholders": {
+      "steps": {}
+    }
+  },
+  "@workoutDetails": {
+    "placeholders": {
+      "minutes": {},
+      "calories": {}
+    }
+  },
+  "@measurementWaistHip": {
+    "placeholders": {
+      "waist": {},
+      "hip": {}
+    }
+  },
+  "@measurementChestNeck": {
+    "placeholders": {
+      "chest": {},
+      "neck": {}
+    }
+  },
+  "@measurementArmThigh": {
+    "placeholders": {
+      "arm": {},
+      "thigh": {}
+    }
+  },
+  "@measurementLatestValue": {
+    "placeholders": {
+      "value": {},
+      "unit": {}
+    }
+  },
+  "@elapsedLabel": {
+    "placeholders": {
+      "hours": {},
+      "minutes": {}
+    }
+  },
+  "@remainingLabel": {
+    "placeholders": {
+      "hours": {},
+      "minutes": {}
+    }
+  },
+  "@caloriesValue": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@proteinValue": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@carbValue": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@fatValue": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@foodItemCalories": {
+    "placeholders": {
+      "name": {},
+      "cal": {}
+    }
+  },
+  "@bmrValue": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@dailyCalorieGoalMessage": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@lastMeasurementLabel": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@weekDeltaLabel": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@goalInline": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@weeklyCaloriesAverage": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@weeklyCaloriesTotal": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@weeklyCaloriesTarget": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@tdeeValue": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@suggestedValue": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@weightChangeValue": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@trendSpeedValue": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@weeklyWaterAdherenceValue": {
+    "placeholders": {
+      "count": {},
+      "total": {}
+    }
+  },
+  "@weeklyFastingCountValue": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "@weeklyGeneratedLabel": {
+    "placeholders": {
+      "time": {}
+    }
+  },
+  "@consistencyMessage": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "@calorieOffsetValue": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@importedEntries": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "@subscribeLabel": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "@reminderMovedMessage": {
+    "placeholders": {
+      "time": {}
+    }
+  },
+  "@confirmDeleteLabel": {
+    "placeholders": {
+      "word": {}
+    }
+  }
+}
