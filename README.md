@@ -5,7 +5,7 @@
 VitaTrack, kişisel sağlık hedeflerinize ulaşmanıza yardımcı olan kapsamlı bir mobil uygulamadır. Kilo takibi, beslenme kontrolü, su tüketimi ve daha fazlasını tek bir platformda sunar.
 
 ---
-
+**Youtube linki:** https://youtu.be/J--hB7_tyao
 
 
 
