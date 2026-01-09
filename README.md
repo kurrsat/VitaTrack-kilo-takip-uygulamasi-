@@ -1,8 +1,8 @@
-﻿# WeightVault 🏋️‍♀️
+﻿# VitaTrack 🏋️‍♀️
 
-**Offline-First Kilo & Sağlık Takip Uygulaması**
+**Kilo & Sağlık Takip Uygulaması**
 
-WeightVault, kişisel sağlık hedeflerinize ulaşmanıza yardımcı olan kapsamlı bir mobil uygulamadır. Kilo takibi, beslenme kontrolü, su tüketimi ve daha fazlasını tek bir platformda sunar.
+VitaTrack, kişisel sağlık hedeflerinize ulaşmanıza yardımcı olan kapsamlı bir mobil uygulamadır. Kilo takibi, beslenme kontrolü, su tüketimi ve daha fazlasını tek bir platformda sunar.
 
 ---
 
@@ -13,7 +13,7 @@ WeightVault, kişisel sağlık hedeflerinize ulaşmanıza yardımcı olan kapsam
 
 ### Bu uygulama kimin işine yarar?
 
-WeightVault, **sağlıklı yaşam hedeflerine ulaşmak isteyen herkes** için tasarlanmıştır:
+VitaTrack, **sağlıklı yaşam hedeflerine ulaşmak isteyen herkes** için tasarlanmıştır:
 
 1. **Kilo Vermek İsteyenler**
    - Günlük kalori alımını takip etmek isteyenler
