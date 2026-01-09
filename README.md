@@ -62,7 +62,6 @@ VitaTrack, **sağlıklı yaşam hedeflerine ulaşmak isteyen herkes** için tasa
 **Çözüm:**
 - Firebase Cloud Sync ile otomatik yedekleme
 - Offline-first tasarım (internet olmadan çalışır)
-- CSV export ile veri dışa aktarma
 - Demo mode ile internet olmadan kullanım
 
 ### 4. **Karmaşık Arayüz**
@@ -73,12 +72,6 @@ VitaTrack, **sağlıklı yaşam hedeflerine ulaşmak isteyen herkes** için tasa
 - Shortcuts ile ana ekrandan direkt işlem
 - Localization (Türkçe/İngilizce) desteği
 
-### 5. **Gizlilik Endişesi**
-**Problem:** Sağlık verileri hassas, paylaşmak istenmez.  
-**Çözüm:**
-- Demo Mode: Tamamen offline, veriler sadece cihazda
-- Biometric lock ile uygulama kilitleme
-- Firebase Auth ile güvenli kullanıcı yönetimi
 
 ---
 
@@ -139,7 +132,6 @@ VitaTrack, **sağlıklı yaşam hedeflerine ulaşmak isteyen herkes** için tasa
 ### 🍽️ Beslenme Takibi
 - **Otomatik Besin Değerleri**: OpenFoodFacts & USDA API
 - **Barkod Okuma**: Premium özellik
-- **Özel Yemekler**: Kendi tariflerinizi kaydedin
 - **Öğün Kategorileri**: Kahvaltı, öğle, akşam, aperatifler
 - **Makro Takibi**: Kalori, protein, karbonhidrat, yağ
 
@@ -148,11 +140,6 @@ VitaTrack, **sağlıklı yaşam hedeflerine ulaşmak isteyen herkes** için tasa
 - **Hidratasyon Katsayısı**: Her içeceğin farklı etki oranı
 - **Hızlı Ekleme**: Preset miktarlar (250ml, 500ml, 1L)
 - **Günlük Hedef**: Özelleştirilebilir su hedefi
-
-### ⏱️ Oruç Takibi
-- **Aralıklı Oruç**: 16:8, 18:6, 20:4 gibi modeller
-- **Canlı Timer**: Oruç süresi sayacı
-- **Geçmiş Kayıtları**: Oruç grafikleri
 
 ### 📊 Kilo & Ölçüm Takibi
 - **Günlük Tartı**: Kilo kayıtları
@@ -176,7 +163,6 @@ VitaTrack, **sağlıklı yaşam hedeflerine ulaşmak isteyen herkes** için tasa
 - **Demo Mode**: Tamamen offline kullanım
 - **Quick Actions**: Ana ekrandan hızlı işlemler
 - **Biometric Lock**: Parmak izi/yüz tanıma kilidi
-- **Dark Mode**: Göz dostu karanlık tema
 - **Localization**: Türkçe & İngilizce
 - **Premium**: RevenueCat entegrasyonu
 
