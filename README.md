@@ -160,11 +160,9 @@ VitaTrack, **sağlıklı yaşam hedeflerine ulaşmak isteyen herkes** için tasa
 ### ⚙️ Diğer Özellikler
 - **Offline-First**: Internet olmadan çalışır
 - **Firebase Sync**: Otomatik bulut yedekleme
-- **Demo Mode**: Tamamen offline kullanım
 - **Quick Actions**: Ana ekrandan hızlı işlemler
-- **Biometric Lock**: Parmak izi/yüz tanıma kilidi
 - **Localization**: Türkçe & İngilizce
-- **Premium**: RevenueCat entegrasyonu
+
 
 
 
