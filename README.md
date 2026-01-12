@@ -149,19 +149,17 @@ VitaTrack, **sağlıklı yaşam hedeflerine ulaşmak isteyen herkes** için tasa
 
 ### 📸 İlerleme Fotoğrafları
 - **Karşılaştırma**: Tarih bazlı fotoğraf karşılaştırma
-- **Gizlilik**: Biometric lock ile koruma
 - **Cloud Storage**: Firebase Storage ile yedekleme
 
 ### 📈 Raporlar ve Analitikler
 - **Haftalık/Aylık Raporlar**: Detaylı analizler
 - **Firebase Analytics**: Kullanım istatistikleri
-- **Custom Insights**: Kişiselleştirilmiş öneriler
+
 
 ### ⚙️ Diğer Özellikler
 - **Offline-First**: Internet olmadan çalışır
 - **Firebase Sync**: Otomatik bulut yedekleme
 - **Quick Actions**: Ana ekrandan hızlı işlemler
-- **Localization**: Türkçe & İngilizce
 
 
 
