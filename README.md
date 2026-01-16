@@ -18,11 +18,13 @@ Uygulamanın ana sayfasıdır. Kullanıcının günlük hedeflerine (su, kalori,
 
 
 
+
 **Giriş Ekranı**
 
 
 <img width="441" height="901" alt="download" src="https://github.com/user-attachments/assets/df507589-6367-4d56-8e52-7d9d9dc2aa50" />
 Kullanıcıların hesaplarına e-posta/şifre ile güvenli bir şekilde giriş yapmasını sağlayan karşılama ekranıdır. Ayrıca Google/Apple ile giriş, kayıt olma ve şifre sıfırlama seçeneklerini barındırır.
+
 
 
 
@@ -35,11 +37,13 @@ Kullanıcının fiziksel değişimini görsel olarak takip edebilmesi için tasa
 
 
 
+
  **Kayıtlar / Günlük**
  
  
 <img width="442" height="912" alt="download" src="https://github.com/user-attachments/assets/ec776e94-6bda-4c42-b5b1-7b010c1081f1" />
 Kullanıcının gün içinde eklediği tüm verilerin (içilen su, yapılan egzersizler, yenen yemekler vb.) tarihsel ve kronolojik olarak listelendiği akış ekranıdır. Her bir aktivitenin saati ve detayları (örn. yakılan kalori) burada yer alır.
+
 
 
 
@@ -53,6 +57,7 @@ Ana sayfadaki "Artı" (+) butonuna tıklandığında açılan menüdür. Kullan�
 
 
 
+
 **Ayarlar Ekranı**
 
 
@@ -60,6 +65,7 @@ Ana sayfadaki "Artı" (+) butonuna tıklandığında açılan menüdür. Kullan�
 Uygulamanın yapılandırma merkezidir. İki ana başlık içerir:
 Profil ve Hedefler: Kullanıcının kişisel bilgilerini, hedef kilosunu ve vücut ölçülerini güncelleyebileceği alan.
 Bildirimler: Su içme, yemek yeme veya spor yapma gibi hatırlatıcıların (bildirimlerin) saatlerinin ayarlandığı ve açılıp kapatılabildiği bölüm.
+
 
 
 
