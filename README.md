@@ -7,6 +7,22 @@ VitaTrack, kişisel sağlık hedeflerinize ulaşmanıza yardımcı olan kapsaml�
 ---
 **Youtube linki:** https://youtu.be/J--hB7_tyao
 
+**Ekranlar ve işlevleri**
+Ana Panel
+<img width="450" height="902" alt="download" src="https://github.com/user-attachments/assets/31a38dd2-cc31-45cc-9dbe-d0be661d6750" />
+Giriş Ekranı
+<img width="441" height="901" alt="download" src="https://github.com/user-attachments/assets/df507589-6367-4d56-8e52-7d9d9dc2aa50" />
+ İlerleme Fotoğrafları Ekranı
+<img width="438" height="906" alt="download" src="https://github.com/user-attachments/assets/60272d2e-2621-41ce-8a31-2f7ed7830879" />
+ Kayıtlar / Günlük
+<img width="442" height="912" alt="download" src="https://github.com/user-attachments/assets/ec776e94-6bda-4c42-b5b1-7b010c1081f1" />
+Hızlı Ekleme Menüsü
+<img width="440" height="905" alt="download" src="https://github.com/user-attachments/assets/b337cde5-8c9c-4be9-879c-4055d0c48e6c" />
+Ayarlar Ekranı
+<img width="445" height="906" alt="download" src="https://github.com/user-attachments/assets/1559e502-db76-49e2-ac04-ccea64e8e811" />
+Raporlar Ekranı
+<img width="437" height="907" alt="download" src="https://github.com/user-attachments/assets/9f845d73-18e2-4d43-81a6-74cef4898067" />
+
 
 
 ## 🎯 Amaç ve Senaryo
