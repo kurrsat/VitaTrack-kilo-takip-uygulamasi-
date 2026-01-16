@@ -12,9 +12,11 @@ Ana Panel
 <img width="450" height="902" alt="download" src="https://github.com/user-attachments/assets/31a38dd2-cc31-45cc-9dbe-d0be661d6750" />
 Uygulamanın ana sayfasıdır. Kullanıcının günlük hedeflerine (su, kalori, aktivite) ne kadar yaklaştığını, mevcut kilosunu ve hedef kilosuna olan uzaklığını dairesel grafiklerle ve özet kartlarla gösterir. Ayrıca günün makro besin (protein, yağ vb.) detaylarını da sunar.
 
+
 Giriş Ekranı
 <img width="441" height="901" alt="download" src="https://github.com/user-attachments/assets/df507589-6367-4d56-8e52-7d9d9dc2aa50" />
 Kullanıcıların hesaplarına e-posta/şifre ile güvenli bir şekilde giriş yapmasını sağlayan karşılama ekranıdır. Ayrıca Google/Apple ile giriş, kayıt olma ve şifre sıfırlama seçeneklerini barındırır.
+
 
  İlerleme Fotoğrafları Ekranı
 <img width="438" height="906" alt="download" src="https://github.com/user-attachments/assets/60272d2e-2621-41ce-8a31-2f7ed7830879" />
@@ -24,9 +26,11 @@ Kullanıcının fiziksel değişimini görsel olarak takip edebilmesi için tasa
 <img width="442" height="912" alt="download" src="https://github.com/user-attachments/assets/ec776e94-6bda-4c42-b5b1-7b010c1081f1" />
 Kullanıcının gün içinde eklediği tüm verilerin (içilen su, yapılan egzersizler, yenen yemekler vb.) tarihsel ve kronolojik olarak listelendiği akış ekranıdır. Her bir aktivitenin saati ve detayları (örn. yakılan kalori) burada yer alır.
 
+
 Hızlı Ekleme Menüsü
 <img width="440" height="905" alt="download" src="https://github.com/user-attachments/assets/b337cde5-8c9c-4be9-879c-4055d0c48e6c" />
 Ana sayfadaki "Artı" (+) butonuna tıklandığında açılan menüdür. Kullanıcının uygulamada en sık yaptığı 4 temel işlemi (Su Ekleme, Öğün Ekleme, Aktivite/Egzersiz Ekleme ve Vücut Fotoğrafı Ekleme) tek bir yerden hızlıca başlatmasını sağlar.
+
 
 Ayarlar Ekranı
 <img width="445" height="906" alt="download" src="https://github.com/user-attachments/assets/1559e502-db76-49e2-ac04-ccea64e8e811" />
@@ -34,9 +38,11 @@ Uygulamanın yapılandırma merkezidir. İki ana başlık içerir:
 Profil ve Hedefler: Kullanıcının kişisel bilgilerini, hedef kilosunu ve vücut ölçülerini güncelleyebileceği alan.
 Bildirimler: Su içme, yemek yeme veya spor yapma gibi hatırlatıcıların (bildirimlerin) saatlerinin ayarlandığı ve açılıp kapatılabildiği bölüm.
 
+
 Raporlar Ekranı
 <img width="437" height="907" alt="download" src="https://github.com/user-attachments/assets/9f845d73-18e2-4d43-81a6-74cef4898067" />
 Kullanıcının haftalık veya aylık gelişimini grafikler üzerinden analiz ettiği sayfadır. Tüketilen kalori miktarı, günlük ortalamalar ve kilo değişim grafiği (çubuk grafik) burada görüntülenir.
+
 
 
 
