@@ -7,7 +7,7 @@ VitaTrack, kişisel sağlık hedeflerinize ulaşmanıza yardımcı olan kapsaml�
 ---
 **Youtube linki:** https://youtu.be/J--hB7_tyao
 
-**Ekranlar ve işlevleri**(amaçlar problemler ekranlar ve işlevlerden sonra geliyor)
+**Ekranlar ve işlevleri**(amaçlar hangi problemleri çözdüğü vb. en alta)
 
 **Ana Panel**
 
